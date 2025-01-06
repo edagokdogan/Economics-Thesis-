@@ -33,5 +33,3 @@ References:
 Shadmehr, Mehdi, and Massoud Moslehi. "The Repression Puzzle: Mobilization, Repression, and Inequality." ResearchGate, https://www.researchgate.net/profile/Mehdi-Shadmehr/publication/229053120_The_Repression_Puzzle_Mobilization_Repression_and_Inequality/links/5602108408ae42bbd541f66a/The-Repression-Puzzle-Mobilization-Repression-and-Inequality.pdf . Accessed June 3rd 2024
 Clark, Michael. "Application of Generalized Additive Models." Generalized Additive Models, https://m-clark.github.io/generalized-additive-models/application.html. Accessed June 3rd 2024
 How to Calculate AUC (Area Under Curve) in R." GeeksforGeeks, https://www.geeksforgeeks.org/how-to-calculate-auc-area-under-curve-in-r/ Accessed June 3rd 2024
-
-![image](https://github.com/user-attachments/assets/68040c43-0c25-44b1-a75c-1459dc6adc8f)
